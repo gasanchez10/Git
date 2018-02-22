@@ -9,7 +9,7 @@ class App extends Component {
 
 <div id="div">
 
-  <h1>SOY UNA FORMA DE PRUEBA MAIN BRANCH </h1>
+  <h1>SOY UNA FORMA DE PRUEBA DEVELOPER BRANCH </h1>
 <form method="post" className="Hola">
           <input type="hidden" name="form-name" value="contact" />
           <p>
