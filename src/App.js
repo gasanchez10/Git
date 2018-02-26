@@ -10,13 +10,19 @@ class App extends Component {
 <div id="div">
 
 
+
   <h1>SOY UNA FORMA DE PREVIEW </h1>
+
 
 <form method="post" className="Hola">
           <input type="hidden" name="form-name" value="contact" />
           <p>
             <label>Your Name: <input type="text" name="name"/></label>
           </p>
+          <p>
+            <label>Your Surname: <input type="text" name="surname"/></label>
+          </p>
+
           <p>
             <label>Your Email: <input type="email" name="email"/></label>
           </p>
