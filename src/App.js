@@ -11,7 +11,7 @@ class App extends Component {
 
 
 
-  <h1>SOY UNA FORMA DE PREVIEW </h1>
+  <h1>SOY DEV VERSION </h1>
 
 
 <form method="post" className="Hola">
